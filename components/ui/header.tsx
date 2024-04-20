@@ -34,10 +34,10 @@ export default function Header() {
                 <Link href="/special-events" className="font-medium text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Special Events</Link>
               </li>
               <li>
-                <Link href="/gallery" className="font-medium text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Gallery</Link>
+                <Link href="/" className="font-medium text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Gallery</Link>
               </li>
               <li>
-                <Link href="/contact" className="font-medium text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Contact</Link>
+                <Link href="/" className="font-medium text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out">Contact</Link>
               </li>
             </ul>
           </nav>

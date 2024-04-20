@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Image1 from '@/public/images/front.jpg';
 import Image2 from '@/public/images/cricket.png';
 import Image3 from '@/public/images/gym.png';
+import MobileMenu from '@/components/ui/mobile-menu';
 
 
 const images = [Image1, Image2, Image3];
@@ -44,7 +45,7 @@ export default function hero() {
       />
 
       <center><h2 className="h2 mb-4" style={{ marginTop: '100px' }}>SPORTS ACADEMY</h2></center>
-      
+      <MobileMenu />
     </div>
   );
 }
