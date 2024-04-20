@@ -1,6 +1,6 @@
 # React / Next.js sports website template
 
-![Open React / Next.js template preview](![alt text](image.png))
+![alt text](image.png)
 
 **Open** is a **free React / Next.js landing page template built with Tailwind CSS** for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
