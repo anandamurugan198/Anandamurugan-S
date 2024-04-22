@@ -15,7 +15,7 @@ export default function Zigzag() {
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-50 rounded-full mb-4">Reach goals that matter</div>
             <h1 className="h2 mb-4">One product, unlimited solutions</h1>
             <p className="text-xl text-gray-400">
-A sports academy is an institution or organization dedicated to providing specialized training, coaching, and development opportunities for athletes in various sports disciplines. Sports academies focus on nurturing talent, honing skills, and fostering athletic excellence in participants, typically at the youth or professional level.</p>
+            A sports academy is an institution or organization dedicated to providing specialized training, coaching, and development opportunities for athletes in various sports disciplines. Sports academies focus on nurturing talent, honing skills, and fostering athletic excellence in participants, typically at the youth or professional level.</p>
           </div>
 
           {/* Items */}
